@@ -1,6 +1,0 @@
-com/google/gm/userInterface/GmUI.java
- com.google.gm.userInterface.GmUI
-com/google/gm/driver/AppiumAndroidDriver.java
- com.google.gm.driver.AppiumAndroidDriver
-com/google/gm/tasks/ConfiGestoDerecha.java
- com.google.gm.tasks.ConfiGestoDerecha

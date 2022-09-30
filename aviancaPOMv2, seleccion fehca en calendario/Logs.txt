@@ -1,6 +1,0 @@
-
-
->>>>>>>>>>>>>>>>>>>
->>>El vuelo es de tipo: Solo ida
->>>El origen del vuelo es: Miami
-

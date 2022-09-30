@@ -1,8 +1,0 @@
-runners/AvRunner.java
- runners.AvRunner
-runners/Example.java
- runners.Example
-stepDefinitions/AvStepDefinitions.java
- stepDefinitions.AvStepDefinitions
-stepDefinitions/Examples.java
- stepDefinitions.Examples

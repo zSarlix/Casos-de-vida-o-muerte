@@ -1,2 +1,0 @@
-# UtestAutomation
-Automatizacion v1

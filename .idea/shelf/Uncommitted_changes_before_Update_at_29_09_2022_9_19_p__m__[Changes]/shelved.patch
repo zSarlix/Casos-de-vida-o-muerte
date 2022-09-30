@@ -1,0 +1,16 @@
+Index: untitled7/.idea/modules.xml
+===================================================================
+diff --git a/untitled7/.idea/modules.xml b/untitled7/.idea/modules.xml
+deleted file mode 100644
+--- a/untitled7/.idea/modules.xml	(revision 6cc3f825cedd0ae10f2aecb3374a2a50fe333899)
++++ /dev/null	(revision 6cc3f825cedd0ae10f2aecb3374a2a50fe333899)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/.idea/untitled7.iml" filepath="$PROJECT_DIR$/.idea/untitled7.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file

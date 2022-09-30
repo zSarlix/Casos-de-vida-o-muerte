@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="SQA-MMR Automatizacion prueba de Colpatria" skipped="0" tests="1" time="12.54" timestamp="2021-07-22 05:11:13"><testcase name="Busqueda de vuelo exitosa en la pagina de Avianca"><error message="element not interactable&#10;  (Session info: chrome=91.0.4472.164)&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'LAPTOP-PISRMKJI', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'&#10;Driver info: org.openqa.selenium.chrome.ChromeDriver&#10;Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.164, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\pcc\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:51963}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}&#10;Session ID: d5ccbf7d8d4d37e49a1e72c3b14d6572&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'LAPTOP-PISRMKJI', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.ElementNotInteractableException">element not interactable
+  (Session info: chrome=91.0.4472.164)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-PISRMKJI', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.164, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\pcc\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:51963}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d5ccbf7d8d4d37e49a1e72c3b14d6572
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-PISRMKJI', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: driver.version: unknown</error><system-err>element not interactable
+  (Session info: chrome=91.0.4472.164)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-PISRMKJI', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.164, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\pcc\AppData\Local\...}, goog:chromeOptions: {debuggerAddress: localhost:51963}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d5ccbf7d8d4d37e49a1e72c3b14d6572
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-PISRMKJI', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: driver.version: unknown&#13;
+steps.AvSteps.seleccionClick(AvSteps.java:27)&#13;
+steps.AvSteps.vueloSoloIda(AvSteps.java:128)&#13;
+steps.AvSteps.vueloExcel(AvSteps.java:178)&#13;
+stepDefinitions.AvStepDefinitions.buscoUnVueloYEscojoUnaFecha(AvStepDefinitions.java:19)&#13;
+✽.busco un vuelo y escojo una fecha(src/test/resources/features/avianca.feature:8)&#13;
+</system-err></testcase></testsuite>

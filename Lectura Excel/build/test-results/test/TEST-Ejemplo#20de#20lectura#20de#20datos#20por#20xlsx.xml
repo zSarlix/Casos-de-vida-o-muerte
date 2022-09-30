@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Ejemplo de lectura de datos por xlsx" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-18T13:06:55" hostname="LAPTOP-PISRMKJI" time="19.709">
+  <properties/>
+  <testcase name="Busqueda exitosa en Google" classname="Ejemplo de lectura de datos por xlsx" time="19.709"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 92.0.4515.107 (87a818b10553a07434ea9e2b6dccf3cbe7895134-refs/branch-heads/4515@{#1634}) on port 35673
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+ago 18, 2021 8:06:58 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
